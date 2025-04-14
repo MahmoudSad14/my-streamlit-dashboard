@@ -1,0 +1,1 @@
+web: streamlit run Dashboard_1.py
